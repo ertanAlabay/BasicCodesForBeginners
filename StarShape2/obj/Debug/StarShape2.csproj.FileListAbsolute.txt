@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\BasicCodesForBeginners\StarShape2\bin\Debug\StarShape2.exe.config
+D:\Visual Studio\Projects\BasicCodesForBeginners\StarShape2\bin\Debug\StarShape2.exe
+D:\Visual Studio\Projects\BasicCodesForBeginners\StarShape2\bin\Debug\StarShape2.pdb
+D:\Visual Studio\Projects\BasicCodesForBeginners\StarShape2\obj\Debug\StarShape2.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\BasicCodesForBeginners\StarShape2\obj\Debug\StarShape2.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Projects\BasicCodesForBeginners\StarShape2\obj\Debug\StarShape2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\BasicCodesForBeginners\StarShape2\obj\Debug\StarShape2.exe
+D:\Visual Studio\Projects\BasicCodesForBeginners\StarShape2\obj\Debug\StarShape2.pdb
